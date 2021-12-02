@@ -26,3 +26,10 @@ $ kubectl port-forward svc/split-me 8080:5000
 ```
 
 Split-me application should now be accessible at http://localhost:8080
+
+# TO-DO
+
+1. Unable to open zip file (wrong format error)
+2. Deploy in cloud
+3. Add monitoring/alerting
+4. Add caching
